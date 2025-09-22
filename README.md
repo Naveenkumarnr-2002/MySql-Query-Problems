@@ -1,10 +1,10 @@
-# GuviTask-9
+# MySql-Query-Problems
 
 <h1>MYSQL TASK
 
 Task 1
 
-creating a table employee to store employee details like empno, empname, job, mgr, hiredate, salery, comm, deptno using java maven
+Creating a table employee to store employee details like empno, empname, job, mgr, hiredate, salary, comm, deptno using Java Maven
 </h1>
 
 <p>JDBC Codes</p>
